@@ -1,0 +1,6 @@
+[submodule "3rdparty/SDL"]
+	path = 3rdparty/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "3rdparty/SDL-Mixer-X"]
+	path = 3rdparty/SDL-Mixer-X
+	url = https://github.com/WohlSoft/SDL-Mixer-X
